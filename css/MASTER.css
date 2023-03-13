@@ -1,3 +1,31 @@
+
 body {
-    font-family: 'Barlow', sans-serif;
+ 
   }
+
+  h1{
+    font-family: 'Montserrat' !important;
+    font-size: 4.6em;
+    font-weight: bolder;
+  }
+
+  h2{
+    font-family: 'Noto Sans' !important;
+    font-size: 1.4em;
+    letter-spacing: 0.03em;
+  }
+
+  h3{
+    font-family: 'Lato' !important;
+    font-size: 1.8em;
+    letter-spacing:0.01em;
+  }
+
+.btn{
+  padding:1rem;
+  border-radius: 0;
+  font-family: 'Lato' !important;
+  font-weight: bold;
+  font-size: 1.4rem;
+  color: #715656;
+}
